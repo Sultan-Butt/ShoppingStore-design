@@ -1,1 +1,1 @@
-This is a static site in #html and #css.
+This is a static site in HTML and CSS.
